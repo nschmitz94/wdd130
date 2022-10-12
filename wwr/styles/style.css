@@ -11,9 +11,14 @@ height: auto;
     height: 725px;
     background-color: chocolate;
 }
+
+
 #hero-box{
 text-align: center;
+margin-top: 100px;
+
 }
+
 
 header {
     background-color:chocolate;
@@ -29,6 +34,8 @@ nav a {
     text-align: center;
     color: blue;
     text-decoration: none;
+    color: #fcfbfb;
+    padding: 35px;
 } 
 footer p {
     font-size: 1.2em;
@@ -47,28 +54,51 @@ main section{
 text-align: center;
 }
 body{
-  background-color: #d9c2a3;  
+  background-color: #d9c2a3; 
+  font-family: Raleway, Arial, sans-serif;
+    font-size: 22px;
+    margin: 0;
+    padding: 0; 
 }
 header{
     background-color:chocolate;
 }
 nav a:hover{
-    background-color: chocolate;
+    background-color: brown ;
 }
 .book, .join{
     background-color: chocolate;
     text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 30px;
 }
 .book:hover, .join:hover{
-    background-color:chocolate;
+    background-color:brown;
 }
 
 .msg{
-    background-color: chocolate;
+    background-color: brown;
+    line-height: 1.5em;
 }
 footer{
     background-color: chocolate;
 }
 footer a{
     text-decoration: none;
+}
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
+
+.card-img {
+    border: 10px solid brown;
+}
+main section img {
+    box-sizing: border-box;
+}
+.home-grid{
+margin-top:60px
 }
