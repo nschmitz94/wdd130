@@ -54,6 +54,7 @@ hr {
   background: var(--accent1-color);
 }
 header {
+  
   padding: 1em;
   text-align: center;
   color: var(--paragraph-color-on-color);
@@ -97,6 +98,7 @@ p.colored {
   color: var(--paragraph-color-on-color);
 }
 nav {
+  
   background-color: var(--nav-background-color);
   line-height: 3em;
   text-align: center;
