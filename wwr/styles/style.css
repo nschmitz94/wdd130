@@ -219,6 +219,14 @@ card-img {
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
 }
+#Mpic {
+
+    float: left;
+
+}
+#Bpic {
+   float: auto;
+}
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
@@ -259,4 +267,5 @@ card-img {
     footer {
         margin-top: 25px;
     }
+
 }
