@@ -227,12 +227,16 @@ card-img {
     margin-right: 40px;
     margin-bottom: 40px;
     margin-left: 40px;
+    max-width: 100%;
+    height: auto;
 
 }
 #Bpic {
    float: auto;
    box-shadow: 5px 5px 10px #6f7364; 
    margin-left: 40px;
+   max-width: 100%;
+   height: auto;
 }
 #para{
     margin-left: 40px;
