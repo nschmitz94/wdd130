@@ -1,0 +1,53 @@
+.parallax {
+    /* The image used */
+    background-image: url(https://i.postimg.cc/LXDGRXLh/pexels-sebastian-palomino-1955134.jpg);;
+  
+    /* Set a specific height */
+    min-height: 2000px; 
+    
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+
+  header{
+    background-color: #0493f9;
+    }
+    
+   
+    nav a {
+        text-align: center;
+        color: #fb2104;
+        text-decoration: none;
+        color: #fcfbfb;
+        width: 200px;
+        font-size: 50px;
+        padding: 10px;
+        border: none;
+        font-family: monospace;
+    } 
+    
+    footer{
+        background-color: #0493f9;
+    }
+
+    nav a:hover {
+        background-color:#fb2104;
+        color: #fcfbfb;
+        width: 200px;
+        font-size: 50px;
+        padding: 10px;
+        border: none;
+        padding-bottom: 25px;
+       
+    }
+
+    nav{
+        text-align: center;
+        
+        
+     }
+  
