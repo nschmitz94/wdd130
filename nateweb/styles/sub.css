@@ -12,6 +12,20 @@
     background-repeat: no-repeat;
     background-size: cover;
   }
+  .last {
+    /* The image used */
+    background-image: url(https://i.postimg.cc/jdmJPPrf/pexels-tobias-bj-rkli-2334533.jpg);;
+  
+    /* Set a specific height */
+    min-height: 2000px; 
+    
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
 
   header{
     background-color: #0493f9;
@@ -32,6 +46,11 @@
     
     footer{
         background-color: #0493f9;
+        padding: 25px 50px;
+        
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
     }
 
     nav a:hover {
